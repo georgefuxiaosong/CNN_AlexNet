@@ -1,0 +1,3 @@
+# CNN_AlexNet
+CNN实现AlexNet
+运用mnist数据集实现卷积神经网络ALexNet框架，进行手写数字识别
